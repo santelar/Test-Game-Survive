@@ -1,5 +1,7 @@
 # Test-Game-Survive
 
+## https://santelar.github.io/Test-Game-Survive/
+
 О проекте:
 Стартовая страница онлайн игры.
 HTML, CSS, JS.
